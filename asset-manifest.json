@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-scribe/static/css/main.5720ea93.css",
+    "main.js": "/code-scribe/static/js/main.4547937d.js",
+    "static/js/787.9adaa63c.chunk.js": "/code-scribe/static/js/787.9adaa63c.chunk.js",
+    "index.html": "/code-scribe/index.html",
+    "main.5720ea93.css.map": "/code-scribe/static/css/main.5720ea93.css.map",
+    "main.4547937d.js.map": "/code-scribe/static/js/main.4547937d.js.map",
+    "787.9adaa63c.chunk.js.map": "/code-scribe/static/js/787.9adaa63c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5720ea93.css",
+    "static/js/main.4547937d.js"
+  ]
+}
